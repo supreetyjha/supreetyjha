@@ -41,6 +41,5 @@
 ---
 
 
-## Connect with me on LinkedIn! 
-[LinkedIn](https://linkedin.com/in/supreetyjha)
+## Connect with me on [LinkedIn](https://linkedin.com/in/supreetyjha)!
 
