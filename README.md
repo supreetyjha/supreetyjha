@@ -34,7 +34,6 @@
 ### 💻 Featured Projects
 
 * 🔐 **Homomorphic Encryption-Based Secure Data Processing:** Developing secure methods for processing encrypted data without decrypting it first.
-* 🛡️ **System Monitoring & Attack Lab:** Engineered a virtualized security monitoring lab utilizing Windows as the victim environment and Kali Linux as the attacker.
 * 🔑 **Cryptography & Security Tools:** Built custom cybersecurity utilities, including a Password Cracker and a Caesar Cipher tool.
 * ☁️ **Web Applications:** Developed a fully functional Weather App using modern web development practices.
 
