@@ -1,5 +1,3 @@
-# Hi there, I'm Supreety Jha 👋
-
 <h1 align="center">Hi, I'm Supreety Jha 👋</h1>
 <h3 align="center">Cybersecurity Enthusiast | Software Developer </h3>
 
