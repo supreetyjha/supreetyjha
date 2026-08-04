@@ -19,7 +19,7 @@ Computer Science undergraduate specializing in <b>Cybersecurity</b> at VIT Bhopa
 - 💼 **Experience:** Software & Security Intern at **The Red User**, and Technical & Data Intern at the **Bhopal Police Commissionerate**, blending software engineering with real-world forensic and law-enforcement casework
 - 🏢 **Industry exposure:** Completed virtual/simulation programs with **TCS**, **Deloitte**, and **J.P. Morgan Chase & Co.**
 - 🧪 **Forensics interest:** the intersection of tech and forensic science — from Locard's Exchange Principle to GC-MS analysis
-- 🎓 **Currently pursuing:** B.Tech in CSE (Cybersecurity) at VIT Bhopal — CGPA 8.81
+- 🎓 **Currently pursuing:** B.Tech in CSE (Cybersecurity) at VIT Bhopal 
 - 💬 **Ask me about:** application security, cryptography, network protocol analysis, or LeetCode problem-solving
 - 📫 **Reach me:** supreetyjha@gmail.com
 
