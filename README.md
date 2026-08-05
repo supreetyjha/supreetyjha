@@ -15,12 +15,9 @@ Computer Science undergraduate specializing in <b>Cybersecurity</b> at VIT Bhopa
 ### 🚀 About Me
 
 - 🔭 **Currently building:** [`LogRefine AI`](https://github.com/supreetyjha/LogRefine-AI) — an ML-powered security telemetry pipeline trained on the CIC-IDS2017 intrusion dataset
-- 🔐 **Also working on:** a Homomorphic Encryption computation engine for secure arithmetic on encrypted data, and a Kali Linux vs. Windows system-monitoring lab
-- 💼 **Experience:** Software & Security Intern at **The Red User**, and Technical & Data Intern at the **Bhopal Police Commissionerate**, blending software engineering with real-world forensic and law-enforcement casework
+- 💼 **Experience:** Software & Security Intern at **The Red User**, and Intern at the **Bhopal Police Commissionerate**, blending software engineering with real-world forensic and law-enforcement casework
 - 🏢 **Industry exposure:** Completed virtual/simulation programs with **TCS**, **Deloitte**, and **J.P. Morgan Chase & Co.**
 - 🧪 **Forensics interest:** the intersection of tech and forensic science — from Locard's Exchange Principle to GC-MS analysis
-- 🎓 **Currently pursuing:** B.Tech in CSE (Cybersecurity) at VIT Bhopal 
-- 💬 **Ask me about:** application security, cryptography, network protocol analysis, or LeetCode problem-solving
 - 📫 **Reach me:** supreetyjha@gmail.com
 
 ---
@@ -64,7 +61,6 @@ Computer Science undergraduate specializing in <b>Cybersecurity</b> at VIT Bhopa
 | Project | Description |
 |---|---|
 | 🛡️ [**LogRefine AI**](https://github.com/supreetyjha/LogRefine-AI) | ML-powered log filtering pipeline that classifies network traffic as security-relevant or benign noise. Trained on the real CIC-IDS2017 dataset with a Random Forest classifier (99.8% recall, 99.6% precision), cutting SIEM ingestion volume by 58%. Ships with an interactive Streamlit dashboard for cost-savings simulation and live classification. |
-| 🔐 **Homomorphic Encryption Computation Engine** | A C++ cryptographic module enabling secure arithmetic on encrypted ciphertexts without decryption, with benchmarking of execution overhead vs. security tradeoffs. |
 | 🔑 [**Caesar Cipher Tool**](https://github.com/supreetyjha/caesar-cipher-tool) | Python CLI tool to encrypt/decrypt messages via the classic Caesar Cipher — includes brute-force cracking and frequency analysis. |
 | 🧨 [**Password Cracker**](https://github.com/supreetyjha/PasswordCracker) | Python security tool demonstrating brute-force password recovery, with multi-character-set attempts and real-time cracking stats (educational). |
 | 🌤️ [**Weather App**](https://github.com/supreetyjha/weatherApp) | Responsive weather app in JS/HTML/CSS pulling live data from the OpenWeatherMap API. |
@@ -74,7 +70,7 @@ Computer Science undergraduate specializing in <b>Cybersecurity</b> at VIT Bhopa
 ### 💼 Experience
 
 - **Software & Security Intern**, The Red User *(Oct 2024 – Nov 2024)* — Remediated 10+ critical web vulnerabilities (SQLi, CSRF); analyzed 5,000+ packets via Wireshark; hardened firewall rules and access policies.
-- **Technical & Data Intern**, Bhopal Police Commissionerate *(Oct 2024 – Jul 2025)* — Built structured data-extraction processes over network logs and system artifacts, improving detection accuracy by 30%; standardized forensic documentation, cutting case processing time by 20%.
+- **Intern**, Bhopal Police Commissionerate *(Oct 2024 – Jul 2025)* — Built structured data-extraction processes over network logs and system artifacts, improving detection accuracy by 30%; standardized forensic documentation, cutting case processing time by 20%.
 - **Virtual Software & Systems Experience**, TCS · Deloitte · J.P. Morgan *(2025 – 2026)* — Architected AWS IAM least-privilege access models across 15+ simulated enterprise environments; traced system behavior through complex log pipelines.
 
 ---
