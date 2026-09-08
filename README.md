@@ -12,58 +12,29 @@ Computer Science undergraduate specializing in <b>Cybersecurity</b> at VIT Bhopa
 
 ---
 
-### 🚀 About Me
 
-- 🔭 **Currently building:** [`LogRefine AI`](https://github.com/supreetyjha/LogRefine-AI) — an ML-powered security telemetry pipeline trained on the CIC-IDS2017 intrusion dataset
-- 💼 **Experience:** Software & Security Intern at **The Red User**, and Intern at the **Bhopal Police Commissionerate**, blending software engineering with real-world forensic and law-enforcement casework
-- 🏢 **Industry exposure:** Completed virtual/simulation programs with **TCS**, **Deloitte**, and **J.P. Morgan Chase & Co.**
-- 🧪 **Forensics interest:** the intersection of tech and forensic science — from Locard's Exchange Principle to GC-MS analysis
-- 📫 **Reach me:** supreetyjha@gmail.com
+🚀 About Me
+🔭 Currently building: Musafir — a full-stack travel-and-culture app with a Spring Boot backend and India-first Devanagari place names
+💼 Experience: Software & Security Intern at The Red User, and Intern at the Bhopal Police Commissionerate — blending software engineering with real-world forensic and law-enforcement casework
+🏢 Industry exposure: Virtual/simulation programs with TCS, Deloitte, and J.P. Morgan Chase & Co.
+🧪 Forensics interest: The intersection of technology and forensic science — from Locard's Exchange Principle to GC-MS analysis
+📫 Reach me: supreetyjha@gmail.com
+🛠️ Tech Stack
 
----
+Languages C++ Python Java JavaScript SQL
 
-### 🛠️ Tech Stack
+Frameworks & Libraries React Spring Boot Scikit-learn Pandas NumPy Streamlit
 
-**Languages**
+Security & Infrastructure Kali Linux Wireshark OWASP ZAP Git
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+Cloud & Data AWS Kafka MongoDB Oracle SQL
 
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Security & Infrastructure**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Cloud & Data**
-
-![AWS](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🛡️ [**LogRefine AI**](https://github.com/supreetyjha/LogRefine-AI) | ML-powered log filtering pipeline that classifies network traffic as security-relevant or benign noise. Trained on the real CIC-IDS2017 dataset with a Random Forest classifier (99.8% recall, 99.6% precision), cutting SIEM ingestion volume by 58%. Ships with an interactive Streamlit dashboard for cost-savings simulation and live classification. |
-| 🔑 [**Caesar Cipher Tool**](https://github.com/supreetyjha/caesar-cipher-tool) | Python CLI tool to encrypt/decrypt messages via the classic Caesar Cipher — includes brute-force cracking and frequency analysis. |
-| 🧨 [**Password Cracker**](https://github.com/supreetyjha/PasswordCracker) | Python security tool demonstrating brute-force password recovery, with multi-character-set attempts and real-time cracking stats (educational). |
-| 🌤️ [**Weather App**](https://github.com/supreetyjha/weatherApp) | Responsive weather app in JS/HTML/CSS pulling live data from the OpenWeatherMap API. |
+📌 Featured Projects
+Project	Description
+🛡️ LogRefine AI	ML-powered log filtering pipeline that classifies network traffic as security-relevant or benign noise. Trained on the real CIC-IDS2017 dataset with a Random Forest classifier (99.8% recall, 99.6% precision), cutting SIEM ingestion volume by 58%. Ships with an interactive Streamlit dashboard for cost-savings simulation and live classification.
+🔑 Cipher Suite	Modular Python cryptographic library featuring classical ciphers, modern symmetric & asymmetric encryption, cryptographic hash functions, and cryptanalysis tools — including brute-force cracking and frequency analysis.
+🧨 Password Cracker	Python security tool demonstrating brute-force password recovery, with multi-character-set attempts and real-time cracking statistics (built for educational purposes).
+🌤️ Musafir (मुसाफिर)	Full-stack travel-and-culture app — search any city for live weather, nearby attractions and food (Geoapify), a photo gallery (Unsplash), and history/culture book picks (Open Library). Indian places always display in Devanagari, independent of the UI language. A Spring Boot backend (H2, swappable for PostgreSQL) owns per-session reviews, favorites, and search history — no login required.
 
 ---
 
