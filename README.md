@@ -12,7 +12,7 @@ I'm a Computer Science undergraduate specializing in Cybersecurity at VIT Bhopal
 - 💼 **Experience:** Software & Security Intern at The Red User, and Intern at the Bhopal Police Commissionerate — blending software engineering with real-world forensic and law-enforcement casework
 - 🏢 **Industry exposure:** Virtual/simulation programs with TCS, Deloitte, and J.P. Morgan Chase & Co.
 - 🧪 **Forensics interest:** The intersection of technology and forensic science — from Locard's Exchange Principle to GC-MS analysis
-- 📫 **Reach me:** supreetyjha@gmail.com [Linkedln](https://www.linkedin.com/in/supreetyjha)
+- 📫 **Reach me:** [Gmail](supreetyjha@gmail.com) and/or [Linkedln](https://www.linkedin.com/in/supreetyjha)
 
 ---
 
